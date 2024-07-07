@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="javaCaelumPOO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaCaelumPOO_jar</output-path>
+    <root id="archive" name="javaCaelumPOO.jar">
+      <element id="module-output" name="javaCaelumPOO" />
+    </root>
+  </artifact>
+</component>
